@@ -1,0 +1,1 @@
+You need to submit the Verilog codes as well as the xci files (Xilinx IP core files). The Verilog codes include the IP template files provided by Xilinx as well as the additional files written by you.
